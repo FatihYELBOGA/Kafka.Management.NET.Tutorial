@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "3sf7kIBcJMQ8jnX2h0YZjqKk30WSCSbO9+uyzDt0NtylKsiUOCrCaTV7k38IpU+eNsn6cErWs2xvOCGCmZzGcA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fatih YELBOĞA\\source\\repos\\Kafka.Consumer.NET.Tutorial\\Kafka.Consumer.NET.Tutorial\\Kafka.Consumer.NET.Tutorial.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fatih YELBOĞA\\.nuget\\packages\\confluent.kafka\\2.3.0\\confluent.kafka.2.3.0.nupkg.sha512",
+    "C:\\Users\\Fatih YELBOĞA\\.nuget\\packages\\librdkafka.redist\\2.3.0\\librdkafka.redist.2.3.0.nupkg.sha512",
+    "C:\\Users\\Fatih YELBOĞA\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Fatih YELBOĞA\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
