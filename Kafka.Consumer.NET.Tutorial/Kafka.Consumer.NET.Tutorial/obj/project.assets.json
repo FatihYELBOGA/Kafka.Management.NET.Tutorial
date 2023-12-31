@@ -301,11 +301,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fatih YELBOĞA\\source\\repos\\Kafka.Consumer.NET.Tutorial\\Kafka.Consumer.NET.Tutorial\\Kafka.Consumer.NET.Tutorial.csproj",
+      "projectUniqueName": "C:\\Users\\Fatih YELBOĞA\\Documents\\GitHub\\Kafka.Management.NET.Tutorial\\Kafka.Consumer.NET.Tutorial\\Kafka.Consumer.NET.Tutorial\\Kafka.Consumer.NET.Tutorial.csproj",
       "projectName": "Kafka.Consumer.NET.Tutorial",
-      "projectPath": "C:\\Users\\Fatih YELBOĞA\\source\\repos\\Kafka.Consumer.NET.Tutorial\\Kafka.Consumer.NET.Tutorial\\Kafka.Consumer.NET.Tutorial.csproj",
+      "projectPath": "C:\\Users\\Fatih YELBOĞA\\Documents\\GitHub\\Kafka.Management.NET.Tutorial\\Kafka.Consumer.NET.Tutorial\\Kafka.Consumer.NET.Tutorial\\Kafka.Consumer.NET.Tutorial.csproj",
       "packagesPath": "C:\\Users\\Fatih YELBOĞA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fatih YELBOĞA\\source\\repos\\Kafka.Consumer.NET.Tutorial\\Kafka.Consumer.NET.Tutorial\\obj\\",
+      "outputPath": "C:\\Users\\Fatih YELBOĞA\\Documents\\GitHub\\Kafka.Management.NET.Tutorial\\Kafka.Consumer.NET.Tutorial\\Kafka.Consumer.NET.Tutorial\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Fatih YELBOĞA\\AppData\\Roaming\\NuGet\\NuGet.Config",

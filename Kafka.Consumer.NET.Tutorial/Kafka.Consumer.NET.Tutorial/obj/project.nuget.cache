@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3sf7kIBcJMQ8jnX2h0YZjqKk30WSCSbO9+uyzDt0NtylKsiUOCrCaTV7k38IpU+eNsn6cErWs2xvOCGCmZzGcA==",
+  "dgSpecHash": "4AQxfjanIH/0Qq5t0+CJT6Na2rzwJfMmZmPu0pxMjKi9+FgiE8k9IGv0IX7stqjlfwCbYo5JBESeQHn8fQR/8A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Fatih YELBOĞA\\source\\repos\\Kafka.Consumer.NET.Tutorial\\Kafka.Consumer.NET.Tutorial\\Kafka.Consumer.NET.Tutorial.csproj",
+  "projectFilePath": "C:\\Users\\Fatih YELBOĞA\\Documents\\GitHub\\Kafka.Management.NET.Tutorial\\Kafka.Consumer.NET.Tutorial\\Kafka.Consumer.NET.Tutorial\\Kafka.Consumer.NET.Tutorial.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Fatih YELBOĞA\\.nuget\\packages\\confluent.kafka\\2.3.0\\confluent.kafka.2.3.0.nupkg.sha512",
     "C:\\Users\\Fatih YELBOĞA\\.nuget\\packages\\librdkafka.redist\\2.3.0\\librdkafka.redist.2.3.0.nupkg.sha512",
